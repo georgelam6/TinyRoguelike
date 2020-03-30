@@ -3,6 +3,9 @@
 #include "globals.h"
 
 #include <iostream>
+#include <ctime>
+#include <cstdlib>
+
 
 Level::Level() {}
 Level::Level(SDL_Texture* spritesheet)
